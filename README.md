@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Master-creator-hash
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in art
+- 🌱 I’m currently learning in edmonton 
+- 💞️ I’m looking to collaborate in company
+- 📫 How to reach me in person
+
 
 <!---
 Master-creator-hash/Master-creator-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
